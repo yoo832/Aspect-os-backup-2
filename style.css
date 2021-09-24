@@ -1,27 +1,27 @@
-
 html {
   box-sizing: border-box;
   font-size: 16px;
 }
-
-*, *:before, *:after {
+body {
+  background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.jZLrSJIxyKa9yLT3agfMOQHaEc%26pid%3DApi&f=1);
+}
+*,
+*:before,
+*:after {
   box-sizing: inherit;
 }
 
-  
-
-
+h1 {
+  color: #133a65;
 }
 
 body {
   margin: 2rem;
   font-family: bedrock;
-  line-height: 1.0;
+  line-height: 1;
 }
 
-img,body {
-  background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.jZLrSJIxyKa9yLT3agfMOQHaEc%26pid%3DApi&f=1);
-}
+img,
 video {
   height: auto;
   max-width: 100%;

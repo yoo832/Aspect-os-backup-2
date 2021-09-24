@@ -14,12 +14,14 @@ html {
 }
 
 body {
-  margin: 1rem;
-  font-family: comic-sans;
-  line-height: 1.5;
+  margin: 2rem;
+  font-family: bedrock;
+  line-height: 1.0;
 }
 
-img,
+img,body {
+  background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.jZLrSJIxyKa9yLT3agfMOQHaEc%26pid%3DApi&f=1);
+}
 video {
   height: auto;
   max-width: 100%;

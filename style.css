@@ -1,9 +1,14 @@
 html {
   box-sizing: border-box;
-  font-size: 16px;
+  font-size: 20px;
+  text-align: center;
 }
 body {
   background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.jZLrSJIxyKa9yLT3agfMOQHaEc%26pid%3DApi&f=1);
+  .right position: absolute;
+  right: 0px;
+  width: 1500px;
+  padding: 10px;
 }
 *,
 *:before,
@@ -21,7 +26,12 @@ body {
   line-height: 1;
 }
 
-img,
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 85%;
+}
 video {
   height: auto;
   max-width: 100%;

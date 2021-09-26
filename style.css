@@ -38,13 +38,13 @@ video {
 
 button {
   text-align: center;
-  background: gray;
+  background: #;
   border: none;
   color: white;
 }
 
 header {
-  background: black;
+  background: #406082;
   color: white;
   text-align: center;
   margin: 40px;
@@ -52,8 +52,4 @@ header {
   font-size: 64px;
 }
 
-section {
-}
 
-footer {
-}

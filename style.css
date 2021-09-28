@@ -66,4 +66,25 @@ section {
 }
 
 
+ li {
+        display: inline-block;
+        background-color: gray;
+        border-radius: 3px;
+        padding: 2px;
+        margin-left: 20px;
+      }
 
+      li:first-child {
+        margin-left: 0;
+      }
+
+      li: hover {
+        background-color: red;
+      }
+      a {
+        text-decoration: none;
+      }
+
+      a:hover {
+        text-decoratio: underline;
+      }

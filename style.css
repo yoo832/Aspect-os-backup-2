@@ -43,6 +43,8 @@ video {
 
 button {
   text-align: center;
+  padding: 10px;
+  margin: 50px;
   background: #585858;
   border: none;
   color: white;
@@ -83,7 +85,6 @@ section {
 
  li {
         display: inline-block;
-        background-color: gray;
         border-radius: 3px;
         padding: 2px;
         margin-left: 20px;

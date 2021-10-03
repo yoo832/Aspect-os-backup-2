@@ -9,6 +9,7 @@ body {
   padding: 20px;
   font-family: "Comic Sans MS", "Comic Sans", cursive;
   text-align: center;
+  word-wrap: break-word;
 }
 *,
 *:before,

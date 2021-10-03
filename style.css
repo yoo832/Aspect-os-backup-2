@@ -52,18 +52,16 @@ button {
 }
 
 header {
-  background: #000000;
-  height: 100px;
-  color: white;
   margin: 30px;
   padding: 20px;
   font-size: 24px;
   text-align: center;
+  font-family: Futura;
 }
 
 header .logo a {
   background-image: url("https://u.cubeupload.com/AIGamesDeveloper/a93513062000ccfbb18a.png");
-  background-size: 300px;
+  background-size: 250px;
   background-repeat: no-repeat;
   display: inline-block;
   height: 40px;
@@ -119,7 +117,8 @@ p {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 32px;
+  font-family: Futura;
 }
 
 
@@ -133,3 +132,9 @@ p {
   background-color: #04AA6D;
   color: white;
 } 
+
+#AspectAds {
+  color: #f2f2f2;
+  text-align: center;
+  font-family: Futura;
+}

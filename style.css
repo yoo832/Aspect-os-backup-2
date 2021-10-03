@@ -177,7 +177,3 @@ opacity: 0;}}@keyframes
 fadeout {  from {bottom: 30px; opacity: 1;}  to {bottom: 0; opacity: 0;}}
 
 /* EOS */
-function myFunction() {  
-  var x = document.getElementById("snackbar");  
-  x.className = "show"; 
-  setTimeout(function(){ x.className = x.className.replace("show", ""); }, 3000);

@@ -1,13 +1,13 @@
 html {
   box-sizing: border-box;
-  font-size: 18px;
-  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-size: 10px;
+  font-family: Arial, sans-serif
 }
 body {
   right: 0px;
   width: 1500px;
   padding: 20px;
-  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-family: Arial, sans-serif
   text-align: center;
   word-wrap: break-word;
 }
@@ -29,7 +29,7 @@ h2 {
 
 body {
   margin: 2rem;
-  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-family: Arial, sans-serif
   line-height: 1;
   font-size: 20px;
 }
@@ -126,7 +126,7 @@ p {
   padding: 14px 16px;
   text-decoration: none;
   font-size: 32px;
-  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-family: Arial, sans-serif
 }
 
 

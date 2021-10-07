@@ -1,13 +1,13 @@
 html {
   box-sizing: border-box;
   font-size: 10px;
-  font-family: Arial, sans-serif
+  font-family: 'Roboto', sans-serif;
 }
 body {
   right: 0px;
   width: 98%;
   padding: 20px;
-  font-family: Arial, sans-serif
+  font-family: 'Roboto', sans-serif;
   text-align: center;
   word-wrap: break-word;
 }
@@ -29,7 +29,7 @@ h2 {
 
 body {
   margin: 2rem;
-  font-family: Arial, sans-serif
+  font-family: 'Roboto', sans-serif;
   line-height: 1;
   font-size: 20px;
 }
@@ -76,7 +76,7 @@ header .logo a {
 }
 
 section {
-  background: #406082;
+  background: #04AA6D;
   color: white;
   text-align: center;
   margin: 50px;
@@ -126,7 +126,7 @@ p {
   padding: 14px 16px;
   text-decoration: none;
   font-size: 32px;
-  font-family: Arial, sans-serif
+  font-family: 'Roboto', sans-serif;
 }
 
 

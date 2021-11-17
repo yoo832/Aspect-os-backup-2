@@ -7,7 +7,7 @@ html {
 }
 body {
   right: 0px;
-  width: 98%;
+  width: 98%;<p>
   padding: 20px;
   font-family: "Roboto", sans-serif;
   text-align: center;
@@ -355,27 +355,8 @@ padding: 0px;
   font-weight: bolder;
   margin: 2px;
 }
-
-
-.worker-rules-header1 {
-  text-align: center;
-  font-size: 48px;
-  margin-top: 5px;
-  padding: 15px;
-}
-
-.worker-rules-header2 {
-  text-align: left;
-  font-size: 32px;
-  margin-left: 5px;
-  padding: 10px;
-  color: #eaa159;
-}
-
-.worker-rules-paragraph {
-  text-align: left;
-  padding: 2px;
-  margin: 5px;
-  color: black;
-  font-size: 24px;
+.Worker-Rules {
+color: blue;
+font-weight: bolder;
+text-align: center;
 }
